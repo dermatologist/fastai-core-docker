@@ -1,4 +1,4 @@
-# fastai-vision-docker
+# fastai-core-docker
 
 This is a docker container with fastai core libraries installed using conda. This can be used as a base container for deploying prediction workflows. The pre-built container is available [on dockerhub](https://hub.docker.com/r/beapen/fastai-core) as beapen/fastai-core:latest
 
